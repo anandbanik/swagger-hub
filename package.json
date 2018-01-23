@@ -1,0 +1,19 @@
+{
+  "name": "swagger-combine",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "swagger-combine": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm -v"
+  },
+  "author": "",
+  "license": "ISC"
+}
